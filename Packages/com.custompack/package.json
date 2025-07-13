@@ -1,0 +1,13 @@
+{
+    "name": "com.custompack",
+    "version": "1.0.0",
+    "displayName": "Custom Pack",
+    "description": "Package short description.",
+    "unity": "2021.3",
+    "dependencies": {
+    },
+    "keywords": [
+        
+        "Custom Pack"
+    ]
+}
