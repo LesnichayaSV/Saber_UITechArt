@@ -23,6 +23,8 @@ namespace UnityEngine.UI.Extensions
 
         bool leftmost { get { return button == stepper.sides[0]; } }
 
+        
+
         internal Sprite cutSprite;
 
         protected StepperSide()
