@@ -15,9 +15,9 @@ namespace UnityEngine.UI.Extensions.Examples.FancyScrollView
     {
         readonly string[] scenes =
         {
-            "1024x768",
+            "1920x1080",
             "1280x720",
-            "1920x1080"           
+            "1024x768"           
         };
 
         void Start()

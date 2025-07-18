@@ -20,6 +20,7 @@ public class OptionsWindow : MonoBehaviour
     {
         animator = OptionsBlock.GetComponent<Animator>();
         button.image.sprite = normalSprite;
+            
                
     }
     
