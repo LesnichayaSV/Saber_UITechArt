@@ -18,6 +18,8 @@ public class DescriptionTabs : MonoBehaviour
     public Animator animator_VT;
     
     
+   
+    
     void Start()
     {
         videoButton.image.sprite = normalSprite;  

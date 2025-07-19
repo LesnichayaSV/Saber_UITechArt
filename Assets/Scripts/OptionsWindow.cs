@@ -7,6 +7,7 @@ public class OptionsWindow : MonoBehaviour
 {
     public GameObject OptionsBlock;
     public GameObject Gameplay_tab;
+   
      
     public Button button; 
     public Sprite pressedSprite;
@@ -19,8 +20,7 @@ public class OptionsWindow : MonoBehaviour
     void Start()
     {
         animator = OptionsBlock.GetComponent<Animator>();
-        button.image.sprite = normalSprite;
-            
+        button.image.sprite = normalSprite;          
                
     }
     
@@ -37,7 +37,7 @@ public class OptionsWindow : MonoBehaviour
         animator.Play("OpenWindow_animation");
        
         button.image.sprite = pressedSprite;
-        
+             
         
         for (int i = 0; i < tabs.Length; i++)
         {
@@ -49,10 +49,13 @@ public class OptionsWindow : MonoBehaviour
     {
         OptionsBlock.SetActive(false);
         button.image.sprite = normalSprite;
+        
     }
 
     private void OnDestroy()
     {
         button.onClick.RemoveAllListeners();        
     }
+
+   
 }
