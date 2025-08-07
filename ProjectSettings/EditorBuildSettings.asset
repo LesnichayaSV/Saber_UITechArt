@@ -9,4 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Sci-fi_Menu.unity
     guid: 7114990ae2e63b748ae9b00873721625
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2df54d6dac0bc3949967fa4c029dfcbe, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: d6620b10ec79a724880223ac8c2529ec, type: 2}
