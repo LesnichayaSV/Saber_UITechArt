@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 44dad4c6e51514b43a06ccc15ff627ea, type: 3}
+    - {fileID: 21300000, guid: 02e29958bcc2a5646b0963d440365678, type: 3}
+    - {fileID: 21300000, guid: 4bc65374559850d44bb8d73013f6b8b3, type: 3}
+    - {fileID: 21300000, guid: 879e3aeab34c1a742bb6b9875683440f, type: 3}
+    - {fileID: 21300000, guid: d1f136911a6d8a0479ec9337d8d0dcde, type: 3}
+    - {fileID: 21300000, guid: 1f47a1600c7019749b1d25e4d66b335c, type: 3}
+    - {fileID: 21300000, guid: 71231f13d7077294791365dd475908fb, type: 3}
+    - {fileID: 21300000, guid: 65ddeae7553ad4f449166b9c9c72479f, type: 3}
+    - {fileID: 21300000, guid: 921170766080a5842b5049eb2ed3672e, type: 3}
+    - {fileID: 21300000, guid: b6482b16eb4c4414188ec941ba956ec2, type: 3}
+    - {fileID: 21300000, guid: b2d7fc464e1152f4c800420fa1fe6715, type: 3}
+    - {fileID: 21300000, guid: 535c8bacf8e58ed4e96f0ae5cf44e214, type: 3}
+    - {fileID: 21300000, guid: 34cde54bae0d0c24289e748e2809c610, type: 3}
+    - {fileID: 21300000, guid: 2e89e344060b05a4da8585fdc308cfb2, type: 3}
+    - {fileID: 21300000, guid: e42a0de014960824fac8ea1138f121bd, type: 3}
+    - {fileID: 21300000, guid: 486c8914cc199564b972569ce7811bfc, type: 3}
+    - {fileID: 21300000, guid: bd045352359c3254ba6576eb8886ddcd, type: 3}
+    - {fileID: 21300000, guid: cad46a508dd12214e8cba734adc6c60e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - cad46a508dd12214e8cba734adc6c60e: 21300000
+    - 1f47a1600c7019749b1d25e4d66b335c: 21300000
+    - e42a0de014960824fac8ea1138f121bd: 21300000
+    - d1f136911a6d8a0479ec9337d8d0dcde: 21300000
+    - bd045352359c3254ba6576eb8886ddcd: 21300000
+    - 71231f13d7077294791365dd475908fb: 21300000
+    - 486c8914cc199564b972569ce7811bfc: 21300000
+    - 2e89e344060b05a4da8585fdc308cfb2: 21300000
+    - 4bc65374559850d44bb8d73013f6b8b3: 21300000
+    - b6482b16eb4c4414188ec941ba956ec2: 21300000
+    - b2d7fc464e1152f4c800420fa1fe6715: 21300000
+    - 921170766080a5842b5049eb2ed3672e: 21300000
+    - 44dad4c6e51514b43a06ccc15ff627ea: 21300000
+    - 65ddeae7553ad4f449166b9c9c72479f: 21300000
+    - 02e29958bcc2a5646b0963d440365678: 21300000
+    - 879e3aeab34c1a742bb6b9875683440f: 21300000
+    - 34cde54bae0d0c24289e748e2809c610: 21300000
+    - 535c8bacf8e58ed4e96f0ae5cf44e214: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cad46a508dd12214e8cba734adc6c60e, type: 3}
+  - {fileID: 21300000, guid: 1f47a1600c7019749b1d25e4d66b335c, type: 3}
+  - {fileID: 21300000, guid: e42a0de014960824fac8ea1138f121bd, type: 3}
+  - {fileID: 21300000, guid: d1f136911a6d8a0479ec9337d8d0dcde, type: 3}
+  - {fileID: 21300000, guid: bd045352359c3254ba6576eb8886ddcd, type: 3}
+  - {fileID: 21300000, guid: 71231f13d7077294791365dd475908fb, type: 3}
+  - {fileID: 21300000, guid: 486c8914cc199564b972569ce7811bfc, type: 3}
+  - {fileID: 21300000, guid: 2e89e344060b05a4da8585fdc308cfb2, type: 3}
+  - {fileID: 21300000, guid: 4bc65374559850d44bb8d73013f6b8b3, type: 3}
+  - {fileID: 21300000, guid: b6482b16eb4c4414188ec941ba956ec2, type: 3}
+  - {fileID: 21300000, guid: b2d7fc464e1152f4c800420fa1fe6715, type: 3}
+  - {fileID: 21300000, guid: 921170766080a5842b5049eb2ed3672e, type: 3}
+  - {fileID: 21300000, guid: 44dad4c6e51514b43a06ccc15ff627ea, type: 3}
+  - {fileID: 21300000, guid: 65ddeae7553ad4f449166b9c9c72479f, type: 3}
+  - {fileID: 21300000, guid: 02e29958bcc2a5646b0963d440365678, type: 3}
+  - {fileID: 21300000, guid: 879e3aeab34c1a742bb6b9875683440f, type: 3}
+  - {fileID: 21300000, guid: 34cde54bae0d0c24289e748e2809c610, type: 3}
+  - {fileID: 21300000, guid: 535c8bacf8e58ed4e96f0ae5cf44e214, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - white_circle
+  - back_gradient_1
+  - round_square
+  - back_gradient
+  - round_square_gradient_2
+  - check-box
+  - round_square_gradient
+  - inactiveDescr_tab
+  - Adjust_icon
+  - gradient
+  - hover_tab
+  - description_panel
+  - active_tab
+  - description_framel
+  - activeDescr_tab
+  - arrow
+  - inactive_tab
+  - hoverDescr_tab
+  m_RenderDataMap: {}
+  m_Tag: UI_atlas
+  m_IsVariant: 0

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 615116270840351340}
   - component: {fileID: 8120927827513525846}
   m_Layer: 5
-  m_Name: DescriptionTabs
+  m_Name: GameplayTab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
